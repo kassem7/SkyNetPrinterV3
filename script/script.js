@@ -71,7 +71,7 @@ function generateCards() {
           <div class="network-name">${network}</div>
           <div class="code">${code}</div>
           <div class="info">${info}</div>
-          <div class="username-label">الرمز  :  </div>
+          <div class="username-label">الرمز 👈 </div>
         </div>
       `;
       page.appendChild(card);
